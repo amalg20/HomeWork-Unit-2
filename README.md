@@ -1,7 +1,6 @@
 # School Management System
 
-![School](https://github.com/amalg20/ddd/assets/145042005/ab962401-8cce-4ad8-9887-469ff3f95822)
-
+![school](https://github.com/amalg20/HomeWork-Unit-2/assets/145042005/143d7e76-95df-4cbc-af45-edddfc3854fd)
 
 _The idea of this project to help manage students, teachers and courses with some basic functionalities_
 
